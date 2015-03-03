@@ -1,4 +1,4 @@
-package taller_electiva;
+package electiva;
 
 import java.util.List;
 

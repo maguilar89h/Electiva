@@ -1,4 +1,4 @@
-package taller_electiva;
+package electiva;
 
 public class App2 implements Aplicacion{
 	private String id;
